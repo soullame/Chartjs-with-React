@@ -1,0 +1,15 @@
+.allGraphs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.lineGraph,
+.barGraph,
+.pieGraph {
+  color: rgb(14, 70, 163);
+  height: 80%;
+  width: 50%;
+}
